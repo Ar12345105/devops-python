@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-08-22T10:36:47",
+  "system": "Windows",
+  "release": "11",
+  "python": "3.13.5",
+  "disk": {
+    "total_gb": 476.1,
+    "used_gb": 165.95,
+    "free_gb": 310.15,
+    "free_percent": 65.14
+  },
+  "command_run": "cmd /c systeminfo",
+  "command_return_code": 0,
+  "command_stdout_preview": "Host Name:                 DESKTOP-R54D7KP\nOS Name:                   Microsoft Windows 11 Pro\nOS Version:                10.0.22631 N/A Build 22631\nOS Manufacturer:           Microsoft Corporation\nOS Configuration:          Standalone Workstation\nOS Build Type:             Multiprocessor Free\nRegistered Owner:          Admin\nRegistered Organization:   \nProduct ID:                00330-80000-00000-AA211\nOriginal Install Date:     09-02-2025, 03:18:32\nSystem Boot Time:          15-08-2025, 12:17:",
+  "command_stderr_preview": ""
+}
